@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "f311d1f66ff0eb21",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fad52f5dd597c9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43418cd79a28eb4f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8cbc7ce8de04d0ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "38d53aec7e62f9b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2a2c41531816e2a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "560628e8b04b1121",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1bad9476da0bbd3f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fd62ed04eb6e5afa",
+    "type": "split",
+    "children": [
+      {
+        "id": "65ba99238ad07228",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35ead1f03625ad73",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b17435fc076228fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6710365dee462640",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a723a1be3cea9266",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "c2a2c41531816e2a",
+  "lastOpenFiles": [
+    "2022-10-16.md",
+    "A second brain, for you, forever..md",
+    "software/rust/Rust articles.md",
+    "software/networking/Networking articles.md",
+    "software/Untitled.md",
+    "software/postgresql/Postgresql articles.md",
+    "software/python/Python articles.md",
+    "Three laws of motion.md",
+    "Isaac Newton.md",
+    "Law of inertia.md"
+  ]
+}
